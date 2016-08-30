@@ -1,1 +1,6 @@
 d:\Users\Karol\Documents\GitHub\cs\CS\CS\bin\Debug\CS.exe.config
+d:\Users\Karol\Documents\GitHub\cs\CS\CS\bin\Debug\CS.exe
+d:\Users\Karol\Documents\GitHub\cs\CS\CS\bin\Debug\CS.pdb
+d:\Users\Karol\Documents\GitHub\cs\CS\CS\obj\Debug\CS.csprojResolveAssemblyReference.cache
+d:\Users\Karol\Documents\GitHub\cs\CS\CS\obj\Debug\CS.exe
+d:\Users\Karol\Documents\GitHub\cs\CS\CS\obj\Debug\CS.pdb
